@@ -1,4 +1,4 @@
-/* 주제: 문자열 변수의 사용 */
+/* 주제: 문자열 저장 - String */
 package step02;
 
 public class Exam10 {
@@ -10,5 +10,6 @@ public class Exam10 {
     String company = "비트캠프";
 
     System.out.printf("%s, %s, %s, %s, %s\n", name, tel, email, position, company);
+
   }
 }

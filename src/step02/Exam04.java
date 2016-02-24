@@ -9,7 +9,7 @@ public class Exam04 {
     char c4 = 'A';  // A 문자의 유니코드 값을 저장
     char c5 = '가'; // 가 문자의 유니코드 값을 저장
     char c6 = 44032;
-    //short s1 = '가'; // 2바이트 unsigned 값을 2바이트 signed 메모리에 저장 불가!
+    //short s1 = '가'; // 2바이트 unsigned 값을 2바이트 signed 메모리에 저장 불가! 
 
     System.out.println((int)c1);
     System.out.println((int)c2);
