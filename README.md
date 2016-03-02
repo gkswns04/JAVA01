@@ -44,9 +44,68 @@
 - Exam12.java : String 주요 도구 사용법6
 - Exam13.java : String 주요 도구 사용법7
 
-## step03
+## step04
 - Exam01.java : 산술 연산자 사용
 - Exam02.java : 비교 연산자 사용
 - Exam03.java : 논리 연산자 사용
 - Exam04.java : 조건 연산자 사용
 - Exam05.java : 비트 연산자 사용
+- Exam06.java : 비트 연산자 응용
+- Exam07.java : 비트 이동 연산자
+- Exam08.java : 할당 연산자
+- Exam09.java : 전위 증가/감소 연산자
+- Exam10.java : 후위 증가/감소 연산자
+- Exam11.java : 전위/후위 연산자 수행원리 비교
+- Exam12.java : 연산자 우선순위
+- Exam13.java : 연산자 우선순위와 후위 연산자
+- Exam14.java : 명시적 형변환과 암시적 형변환1
+- Exam15.java : 명시적 형변환과 암시적 형변환2
+- Exam16.java : 명시적 형변환과 암시적 형변환3
+- Exam17.java : 암시적 형변환의 규칙
+- Exam18.java : 명시적 형변환과 암시적 형변환 함께 사용하기
+
+##step05
+- Exam01.java : 블록과 변수
+- Exam02.java : 조건문 if
+- Exam03.java : 조건문 if ~ else
+- Exam04.java : 조건문 if ~ else 중첩
+- Exam05.java : 조건문 if ~ else 중첩2
+- Exam06.java : 다중 분기 switch
+- Exam07.java : 다중 분기 switch 2
+- Exam08.java : 다중 분기 switch 3
+- Exam09.java : switch 문에 사용할 수 있는 값의 종류
+- Exam10.java : 반복문 while
+- Exam11.java : 반복문 do ~ while
+- Exam12.java : 반복문 for
+- Exam13.java : 반복문 for와 배열
+- Exam14.java : 반복문 for(:)
+- Exam15.java : break와 continue
+- Exam16.java : for 문 중첩하기
+- Exam17.java : 중첩된 for 문 나가기 
+
+##step06
+- Exam01.java : 메서드 정의하기1
+- Exam02.java : 메서드 정의하기2
+- Exam03.java : 메서드 정의하기3
+- Exam04.java : 메서드 정의하기4
+- Exam05.java : 여러 개의 메서드 정의하기
+
+##step07
+- Exam01.java : class 문법을 이용하여 여러 개의 메서드를 묶기
+- Exam02.java : 클래스 공용 변수 사용
+- Exam03.java : 클래스 변수의 한계
+- Exam04.java : 각 클래스마다 값을 개별적으로 관리하기
+- Exam05.java : 메서드에 인스턴스 주소를 쉽게 전달하기
+
+##step08
+- Exam01.java : 클래스 구동원리 - 클래스 로딩과 메서드 실행
+- Exam02.java : 클래스 구동원리 - 클래스 로딩과 메서드 실행2
+- Exam03.java : 클래스 구동원리 - 클래스 메서드 사용과 클래스 로딩
+- Exam04.java : 클래스 구동원리 - 인스턴스와 클래스 로딩
+- Exam05.java : 클래스 구동원리 - 인스턴스와 클래스 로딩2
+- Exam06.java : 클래스 구동원리 - 가비지와 가비지 컬렉터
+- Exam07.c : dangling pointer(C)
+
+##step09
+- Exam01.java : 기본 데이터 타입만 사용하여 복잡한 데이터 다루기
+- Exam02.java : class로 사용자 정의 타입 만들기
