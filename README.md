@@ -109,3 +109,16 @@
 ##step09
 - Exam01.java : 기본 데이터 타입만 사용하여 복잡한 데이터 다루기
 - Exam02.java : class로 사용자 정의 타입 만들기
+- Exam03.java : 생성자(constructor)와 기본 생성자
+- Exam04.java : 파라미터를 갖는 생성자
+- Exam05.java : 또 다른 인스턴스 초기화 문법 - 인스턴스 초기화 블록
+- Exam06.java : 인스턴스 초기화 문장
+- Exam07.java : 인스턴스 데이터를 다루는 연산자(operator) 추가하기
+
+##step10
+- Exam01.java : 캡슐화 적용 전
+- Exam02.java : 캡슐화 적용 후
+- Exam03.java : 캡슐화 적용 후2
+- Exam04.java : 메서드의 접근 레벨
+- Exam05.java : 다른 패키지의 클래스 사용 및 클래스 접근 레벨
+- Exam06.java : 클래스 접근 레벨
