@@ -17,7 +17,7 @@ public class Exam05 {
 
     // get()의 아규먼트 값을 직접 숫자로 지정하기 보다는
     // 미리 정의된 스태틱 상수 변수를 사용하는 것이
-    // 코드를 읽고 쓸 때 편한다.
+    // 코드를 읽고 쓸 때 편하다.
     int option = Calendar.YEAR;
     System.out.println(cal.get(option)); // 년도
     System.out.println(cal.get(Calendar.MONTH) + 1); // 월 ==> 0부터 11까지

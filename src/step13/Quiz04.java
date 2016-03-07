@@ -8,7 +8,7 @@ package step13;
 public class Quiz04 {
   public static void main(String[] args) {
     String tmp;
-    for (int i = 0; i < args.length; i++) {
+    for (int i = 0; i < args.length - 1; i++) {
       for (int j = i + 1; j < args.length; j++) {
         if (Integer.parseInt(args[i]) > Integer.parseInt(args[j])) {
           tmp = args[i];
