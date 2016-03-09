@@ -164,4 +164,24 @@
 - exam07 : 상속 관계에서 인스턴스 변수 초기화 순서와 생성자 호출 순서
 - exam08 : 수퍼 클래스의 생성자 호출 확인
 - exam09 : 수퍼 클래스에 기본 생성자가 없을 때 오류 발생하는 상황
+- exam10 : 하위 클래스에서 부모 클래스의 protected 멤버에 접근하기 
+- exam11 : super와 this 키워드
 
+##step15
+- Test.java : 다형적 변수
+- exam02
+	- Test.java : 다형적 변수의 제약
+	- Test2.java : 왜 상위 클래스의 레퍼런스는 하위 클래스의 인스턴스를 가리킬 수 있는가?
+	- Test3.java : 다형적 변수의 형변환
+	- Test4.java : 다형적 변수에서 메서드 호출
+
+##step16
+- Exam01.java : java.lang.Object 클래스
+- Exam02.java : toString() 오버라이딩
+- Exam03.java : equals() 오버라이딩
+- Exam04.java : equals() 오버라이딩
+- Exam05.java : hashCode() 오버라이딩
+- Exam06.java : 다시 toString() 오버라이딩
+
+##step17
+- Exam01.java : 키보드로부터 데이터 읽기
