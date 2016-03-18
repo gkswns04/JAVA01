@@ -22,40 +22,22 @@ public class Car6 {
     this.setCc(cc);
     this.setCapacity(capacity);
   }
-  public int getNo() {
-    return this.no;
-  }
+  public int getNo() { return this.no; }
 
-  public String getModel() {
-    return this.model;
-  }
+  public String getModel() { return this.model; }
+  public void setModel(String model) { this.model = model; }
 
-  public void setModel(String model) {
-    this.model = model;
-  }
+  public String getMaker() { return this.maker; }
+  public void setMaker(String maker) { this.maker = maker; }
 
-  public String getMaker() {
-    return this.maker;
-  }
-
-  public void setMaker(String maker) {
-    this.maker = maker;
-  }
-
-  public int getCc() {
-    return this.cc;
-  }
-
+  public int getCc() { return this.cc; }
   public void setCc(int cc) {
     if (cc > 0 && cc <= 10000) {
       this.cc = cc;
     }
   }
 
-  public int getCapacity() {
-    return this.capacity;
-  }
-
+  public int getCapacity() { return this.capacity; }
   public void setCapacity(int capacity) {
     if (capacity > 0 && capacity < 100) {
       this.capacity = capacity;
@@ -63,3 +45,10 @@ public class Car6 {
   }
 
 }
+/*
+
+
+
+
+
+*/

@@ -27,14 +27,9 @@ public class Car7 {
     setCc(cc);
     setCapacity(capacity);
   }
-  public int getNo() {
-    return no;
-  }
+  public int getNo() { return no; }
 
-  public String getModel() {
-    return model;
-  }
-
+  public String getModel() { return model; }
   public void setModel(String model) {
     // 이 경우는 this를 생략할 수 없다.
     // 왜? 로컬 변수 이름이 인스턴스 변수 이름과 같기 때문에
@@ -42,28 +37,17 @@ public class Car7 {
     this.model = model;
   }
 
-  public String getMaker() {
-    return maker;
-  }
+  public String getMaker() { return maker; }
+  public void setMaker(String maker) { this.maker = maker; }
 
-  public void setMaker(String maker) {
-    this.maker = maker;
-  }
-
-  public int getCc() {
-    return cc;
-  }
-
+  public int getCc() { return cc; }
   public void setCc(int cc) {
     if (cc > 0 && cc <= 10000) {
       this.cc = cc;
     }
   }
 
-  public int getCapacity() {
-    return capacity;
-  }
-
+  public int getCapacity() { return capacity; }
   public void setCapacity(int capacity) {
     if (capacity > 0 && capacity < 100) {
       this.capacity = capacity;
@@ -71,3 +55,10 @@ public class Car7 {
   }
 
 }
+/*
+
+
+
+
+
+*/
