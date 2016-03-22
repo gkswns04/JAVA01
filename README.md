@@ -185,3 +185,100 @@
 
 ##step17
 - Exam01.java : 키보드로부터 데이터 읽기
+
+##step18
+- exam01 : Generic
+
+##step19
+- Test1.java : 예외 처리 전
+- Test2.java : 예외 처리 후
+- Test3.java : 예외 정보 다루기
+- Test4.java : 예외 객체의 다형성
+- Test5.java : Exception 예외 다루기
+- Test6.java : Exception 예외 다루기 2 - try ~ catch ~
+- Test7.java : Exception 예외 다루기 3 - throws
+- Test8.java : RuntimeException 예외 던지고 받기
+- Test9.java : Exception 예외 던지고 받기
+- Test10.java : RuntimeException의 이해 1 - 상위 호출자에게 자동 전달
+- Test11.java : RuntimeException의 이해 2 - 활용법
+- Test12.java : Exception의 이해
+- Test13.java : throws의 다형성
+- Test14.java : catch의 다형성
+- Test15.java : catch의 다형성 - try 블록에 여러 예외가 있을 때
+- Test16.java : 왜 Exception을 상속 받는가?
+
+##step20
+- exam01 : 중첩 클래스(Nested Class or Inner Class) 도입 전
+- exam02 : 중첩 클래스(Nested Class or Inner Class) 도입 후
+- exam03
+	- Test1 : top level inner class 사용
+	- Test2 : top level inner class 사용 2
+	- Test3 : top level inner class 사용 3
+	- Test4 : member inner class 사용
+	- Test5 : local inner class 사용
+	- Test6 : annonymous inner class 사용
+	- Test7 : annonymous inner class 사용
+	- Test8 : annonymous inner class 사용
+- exam04 : 같은 멤버인 메서드에서 중첩 클래스 사용하기
+- exam05
+	- Test1 : 패키지 멤버 클래스를 이용한 상수 다루기
+	- Test2 : 중첩 클래스를 이용한 상수 다루기
+
+##step21
+- Exam01.java : Collection API - ArrayList
+- Exam02.java : Collection API - ArrayList2
+- Exam03.java : Collection API - ArrayList3
+- Exam04.java : Collection API - ArrayList4
+- Exam05.java : Collection API - ArrayList5 --> 로컬 중첩 클래스 적용
+- Exam06.java : Collection API - ArrayList6 --> 익명 중첩 클래스 적용
+- Exam07.java : Collection API - Stack
+- Exam08.java : Collection API - Queue
+- Exam09.java : Collection API - List vs Set
+- Exam10.java : Collection API - 해시코드와 HashSet => hashCode(), equals() 재정의하기 전
+- Exam11.java : Collection API - 해시코드와 HashSet => hashCode(), equals() 재정의한 후
+- Exam12.java : Collection API - HashMap
+- Exam13.java : Collection API - HashMap2 => 사용자 정의 클래스를 key로 사용하기
+- Exam14.java : Collection API - HashMap2 => MyKey의 hashCode()와 equals() 재정의하기
+- Exam15.java : HashMap - entry set으로 데이터 꺼내기
+- Exam16.java : HashMap - entry set으로 데이터 꺼내기2
+- Exam17.java : HashMap - 값 만 꺼내기
+- Exam18.java : HashMap - 키 만 꺼내기
+
+##step22
+- exam01
+	- Test01.java : 파일 정보 다루기
+	- Test02.java : 파일 생성, 삭제
+	- Test03.java : 디렉토리에 있는 모든 파일(디렉토리 포함) 목록을 알아내기
+	- Test04.java : 디렉토리에 있는 파일 목록(디렉토리 제외)을 알아내기
+	- Test05.java : 디렉토리에 있는 파일 목록(디렉토리 제외)을 알아내기
+	- Test06.java : .txt 확장자를 갖는 파일명만 출력하라!
+	- Test07.java : 현재 폴더 및 하위 폴더까지 뒤져서 .class 파일의 이름을 출력하라.
+	- Test08.java : 주어진 폴더를 뒤져서 중첩 클래스 파일만 이름을 출력하라.
+- exam02
+	- Test01.java : 바이트 출력하기
+	- Test02.java : 바이트 출력하기2
+	- Test03.java : 바이트 출력하기3
+	- Test04.java : 바이트 출력하기4
+	- Test05.java : 바이트 읽기
+	- Test06.java : 바이트 읽기2
+	- Test07.java : 바이트 읽기3
+	- Test08.java : 바이트 읽기4
+- exam03
+	- Test01.java : 바이트 값을 메모리(바이트 배열)로 출력하기
+	- Test02.java : 메모리(바이트 배열)에 있는 바이트 값을 스트림 API를 사용해서 읽기
+- exam04
+	- Test01.java : 원시 타입 값을 출력하기
+	- Test02.java : 원시 타입 값을 출력하기 - Refactoring(코드 개선) : 메서드 사용
+	- Test03.java : 원시 타입 값을 출력하기 - Refactoring(코드 개선) : 클래스 사용
+	- Test04.java : 원시 타입 값을 출력하기 - Refactoring(코드 개선) : 스태틱 변수 사용
+	- Test05.java : 원시 타입 값을 출력하기 - Refactoring(코드 개선) : 인스턴스 멤버
+	- Test06.java : 원시 타입 값을 출력하기 - Refactoring(코드 개선) : 상속
+	- Test07.java : 원시 타입 값을 출력하기 - Refactoring(코드 개선) : Decorator 패턴
+	- Test08.java : 원시 타입 값을 읽기
+- exam05
+	- Test01.java : 원시 타입 값을 출력하기 - Java에서 제공하는 데코레이터 사용하기
+	- Test01.java : 원시 타입 값을 읽기 - Java에서 제공하는 데코레이터 사용하기
+	- Test01.java : 대용량 데이터 읽기 - 데코레이터 사용 전
+	- Test01.java : 대용량 데이터 읽기 - 버퍼링 데코레이터 사용 후
+
+
