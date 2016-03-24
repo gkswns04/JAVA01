@@ -277,8 +277,25 @@
 	- Test08.java : 원시 타입 값을 읽기
 - exam05
 	- Test01.java : 원시 타입 값을 출력하기 - Java에서 제공하는 데코레이터 사용하기
-	- Test01.java : 원시 타입 값을 읽기 - Java에서 제공하는 데코레이터 사용하기
-	- Test01.java : 대용량 데이터 읽기 - 데코레이터 사용 전
-	- Test01.java : 대용량 데이터 읽기 - 버퍼링 데코레이터 사용 후
+	- Test02.java : 원시 타입 값을 읽기 - Java에서 제공하는 데코레이터 사용하기
+	- Test03.java : 대용량 데이터 읽기 - 데코레이터 사용 전
+	- Test04.java : 대용량 데이터 읽기 - 버퍼링 데코레이터 사용 후
+	- Test05.java : 대용량 데이터 읽기 - Java 버퍼링 데코레이터 사용
+	- Test06.java : 대용량 데이터 쓰기 - 버퍼링 데코레이터 사용 전
+	- Test07.java : 대용량 데이터 쓰기 - 버퍼링 데코레이터 사용 후
+	- Test08.java : 인스턴스 출력하기
+	- Test09.java : 인스턴스 읽기
+	- Test10.java : 인스턴스 출력하기 - ObjectOutputStream 데코레이터 사용
+	- Test11.java : 인스턴스 읽기 - ObjectInputStream 데코레이터 사용
+-exam06
+	- Test01.java : 문자 출력하기
+	- Test02.java : 문자 읽기
 
+##step23
+- step01 : 인터페이스 사용 전
+- step02 : 인터페이스 사용 전
+- step03 : 상속을 이용하여 호출 규칙을 정의한다.
+- step04 : HelloJp 처럼 이미 다른 클래스를 상속 받는 경우 해결책!
+- step05 : 인터페이스를 이용한 호출 규칙 정하기
 
+##step24 - 인터페이스 구
