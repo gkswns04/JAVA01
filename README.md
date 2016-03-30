@@ -298,4 +298,32 @@
 - step04 : HelloJp 처럼 이미 다른 클래스를 상속 받는 경우 해결책!
 - step05 : 인터페이스를 이용한 호출 규칙 정하기
 
-##step24 - 인터페이스 구
+##step24 - 인터페이스 구현
+
+##step25
+- Test01.java : 클래스 정보 알아내기
+- Test02.java : 클래스 정보 알아내기 2
+- Test03.java : 클래스 정보를 통해서 인스턴스 생성하기
+- Test04.java : Reflection API - 메서드 정보 추출하기
+- Test05.java : Reflection API - 메서드 정보 추출하기2
+- Test06.java : Reflection API - 메서드 정보 추출하기3 => 패키지 멤버 클래스도 inner 클래스와 같다. 
+- Test07.java : Reflection API - 특정 메서드만 알아내기
+- Test08.java : Reflection API - 메서드 호출하기
+
+##step26
+- exam01 : 제네릭 사용 전 문제점
+- exam02 : 제네릭(Generic) 적용 => 타입 이름을 받을 변수를 지정한다.
+- exam03 : 제네릭(Generic) 적용 - 값의 범위를 한정하기
+- exam04 : 제네릭 적요 => wildcard 타입 지정
+
+##step27
+- exam01 : 클래스 파일로부터 애노테이션 정보를 추출하기 
+- exam02 : 애노테이션의 유지 정책 확인하기
+- exam03 
+	- Test01.java : 실행 중에 애노테이션 정보 추출하기
+	- Test02.java : 클래스에서 특정 애노테이셔만 추출하기 
+- exam04 : 애노테이션을 사용하는 다양한 방법
+- exam05 : 애노테이션을 사용하는 다양한 방법2
+- exam06 : 애노테이션을 사용하는 다양한 방법3
+- exam07 : 애노테이션을 사용하는 다양한 방법4
+
