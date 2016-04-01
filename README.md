@@ -313,7 +313,7 @@
 ##step26
 - exam01 : 제네릭 사용 전 문제점
 - exam02 : 제네릭(Generic) 적용 => 타입 이름을 받을 변수를 지정한다.
-- exam03 : 제네릭(Generic) 적용 - 값의 범위를 한정하기
+- exam03 : 제네릭(Generic) 적용 => 값의 범위를 한정하기
 - exam04 : 제네릭 적요 => wildcard 타입 지정
 
 ##step27
