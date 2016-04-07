@@ -81,7 +81,7 @@
 - Exam14.java : 반복문 for(:)
 - Exam15.java : break와 continue
 - Exam16.java : for 문 중첩하기
-- Exam17.java : 중첩된 for 문 나가기 
+- Exam17.java : 중첩된 for 문 나가기
 
 ##step06
 - Exam01.java : 메서드 정의하기1
@@ -164,7 +164,7 @@
 - exam07 : 상속 관계에서 인스턴스 변수 초기화 순서와 생성자 호출 순서
 - exam08 : 수퍼 클래스의 생성자 호출 확인
 - exam09 : 수퍼 클래스에 기본 생성자가 없을 때 오류 발생하는 상황
-- exam10 : 하위 클래스에서 부모 클래스의 protected 멤버에 접근하기 
+- exam10 : 하위 클래스에서 부모 클래스의 protected 멤버에 접근하기
 - exam11 : super와 this 키워드
 
 ##step15
@@ -306,7 +306,7 @@
 - Test03.java : 클래스 정보를 통해서 인스턴스 생성하기
 - Test04.java : Reflection API - 메서드 정보 추출하기
 - Test05.java : Reflection API - 메서드 정보 추출하기2
-- Test06.java : Reflection API - 메서드 정보 추출하기3 => 패키지 멤버 클래스도 inner 클래스와 같다. 
+- Test06.java : Reflection API - 메서드 정보 추출하기3 => 패키지 멤버 클래스도 inner 클래스와 같다.
 - Test07.java : Reflection API - 특정 메서드만 알아내기
 - Test08.java : Reflection API - 메서드 호출하기
 
@@ -317,13 +317,39 @@
 - exam04 : 제네릭 적요 => wildcard 타입 지정
 
 ##step27
-- exam01 : 클래스 파일로부터 애노테이션 정보를 추출하기 
+- exam01 : 클래스 파일로부터 애노테이션 정보를 추출하기
 - exam02 : 애노테이션의 유지 정책 확인하기
-- exam03 
+- exam03
 	- Test01.java : 실행 중에 애노테이션 정보 추출하기
-	- Test02.java : 클래스에서 특정 애노테이셔만 추출하기 
+	- Test02.java : 클래스에서 특정 애노테이셔만 추출하기
 - exam04 : 애노테이션을 사용하는 다양한 방법
 - exam05 : 애노테이션을 사용하는 다양한 방법2
 - exam06 : 애노테이션을 사용하는 다양한 방법3
 - exam07 : 애노테이션을 사용하는 다양한 방법4
 
+##step28
+- Test01.java : DBMS에 연결하기
+- Test02.java : 예외 처리와 연결 해제1 - 연결 해제를 자동으로 하기 전
+- Test03.java : 예외 처리와 연결 해제2 - 연결 해제를 자동으로 하기
+- Test04.java : 예외 처리와 연결 해제3 - try(자원){} 문법 사용하여 자동으로 자원해제 하기
+- Test05.java : 예외 처리와 연결 해제4 - 프로그램에서 예외처리하기
+- Test06.java : 다양한 예외 확인
+- Test07.java : JDBC 드라이버를 로딩하는 다른 방법
+- Test08.java : 질의 객체(SQL문을 서버에 보낼 객체)를 준비하기
+- Test09.java : 질의하기 - SELECT 문 보내기
+- Test10.java : 데이터 추가하기 - insert 문 보내기
+- Test11.java : 데이터 변경하기 - update 문 보내기
+- Test12.java : 데이터 삭제하기 - delete 문 보내기
+- Test13.java : Statement 사용 시 문제점
+- Test14.java : Statement 사용 시 문제점 해결 - PreparedStatement 사용
+
+##step29
+- exam01, exam02, exam03 : 데이터 추가하기 - insert 문 보내기
+					 								 데이터 삭제하기 - delete 문 보내기
+					 							   질의하기 - SELECT 문 보내기
+					 						     데이터 변경하기 - update 문 보내기
+- exam04 : PreparedStatement 적용
+- exam05 : DB 커넥션풀 사용하기
+
+##step30
+- exam01 : SQL 맵퍼인 mybatis 적용하기
